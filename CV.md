@@ -1,7 +1,7 @@
 **Sergey Poleshchuk**
 ----
-Tel. +375-29-508-67-28(viber,telegram,whatsUp), email: sgpoleshchuk@gmail.com
-I like to learn new knowledge and get previously unavailable skills. In relation to the new I show perseverance and tolerance.
+*Tel. +375-29-508-67-28(viber,telegram,whatsUp), email: sgpoleshchuk@gmail.com
+I like to learn new knowledge and get previously unavailable skills. In relation to the new I show perseverance and tolerance.*
 ----
 Technologies: 
 1. HTML 5,
