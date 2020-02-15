@@ -11,6 +11,7 @@ Technologies:
 5. Git.
 ----
 Code examples: https://github.com/SGPoleshchuk/Project-Site
-Graduated from the Front-end courses at SkillUp. I studied website development using the following technologies: HTML 5, CSS, JavaScript, SASS, Git, React.
-- In 2011 he graduated from the Minsk trade College. Faculty of technology. Specialty production and catering.
-- In 2015, he graduated from the Institute of entrepreneurship. Department of commercial activity. Specialty economist at the enterprises of public catering.
+----
+- In 2019 I graduated from the Front-end courses at SkillUp. I studied website development using the following technologies: HTML 5, CSS, JavaScript, SASS, Git, React.
+- In 2011 I graduated from the Minsk trade College. Faculty of technology. Specialty production and catering.
+- In 2015 I graduated from the Institute of entrepreneurship. Department of commercial activity. Specialty economist at the enterprises of public catering.
