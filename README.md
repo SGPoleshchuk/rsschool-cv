@@ -1,1 +1,1 @@
-#https://SGPoleshchuk.github.io/rsschool-cv/cv
+#https://SGPoleshchuk/rsschool-cv/cv
