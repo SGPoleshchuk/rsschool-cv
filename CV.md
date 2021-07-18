@@ -1,0 +1,60 @@
+## Sergey Poleshchuk ##
+**Contacts for communication:**
++375(29)508-67-28 
+sgpoleshchuk@gmail.com
+
+I think that you need to do the business that you like, because only in this case you can achieve any high results and improve your skills. I consider my strengths to be perseverance and diligence, the ability to fully immerse myself in the tasks set. I am always open to getting new knowledge and skills.
+I completed courses in Front-end development. I completed one commercial order for the layout of the site [link to the website](www.benzouchastok.by) . I made up the site according to the psd layout, was engaged in filling it and adapting it.
+
+__Skills__
+* HTML5,
+* JavaScript,
+* CSS,
+* ReactJs,
+* jQuery,
+* Git,
+* SASS,
+* Photoshop,
+* Visual *Studio,
+* Sublime Text.
+
+**Sample code:**
+```
+<div class="header_top">
+    <div class="container">
+    <div class="header_top_item">
+    	<span>BENZOUCHASTOK.BY</span>
+        <img src="../img/icon_mail.png" alt="Email"> ipcor@mail.ru
+        <img src="../img/icon_phone.png" alt="Phone"> +375(25)746-19-22 // +375(25)924-51-81
+    </div>
+    </div>		  
+</div>
+<div class="header_bottom">
+   <div class="container">		
+   <div class="logo">
+   <a href="../index.html"><img src="../img/logo.png" alt="Go to home page"></a>
+   </div>
+   <nav class="nav">
+   	<button class="nav_toggle">
+    		<label for="nav_toggle"></label>
+       		<span></span>
+       	</button>
+      	<input type="checkbox" id="nav_toggle">
+          <ul class="menu">
+		        <li><a href="../index.html">Главная</a></li>
+		        <li><a href="price.html">Каталог</a></li>
+		        <li><a href="services.html">Наши услуги</a></li>
+		        <li><a href="contacts.html">Контакты</a></li>
+	    </ul>
+</nav>
+</div>
+</div>
+```
+        
+I completed courses at SkillUp on front-end development. I completed one commercial order for the layout of the site( layout, content filling, adaptive). During the layout, I used Sublime Text, Photoshop, Html5, CSS, JS, jQuery.
+
+_From 2007 to 2011, he studied at the Minsk Trade College at the Faculty of Technology, specializing in Production and catering organization. I received the profession of a technician-technologist at public catering enterprises._
+_From 20011 to 2015, he studied at the Institute of Entrepreneurial Activity at the Faculty of Commercial Activity. I received the profession of an economist at public catering enterprises._
+_In 2019, I graduated from the courses at LLC "Advanced Training" front-end developer._
+
+Basic level of English
