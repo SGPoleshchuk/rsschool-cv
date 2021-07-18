@@ -1,4 +1,4 @@
-##Sergey Poleshchuk##
+## Sergey Poleshchuk ##
 **Contacts for communication:**
 +375(29)508-67-28 
 sgpoleshchuk@gmail.com
@@ -48,7 +48,8 @@ __Skills__
 					    </ul>
 					</nav>
 			    </div>
-		    </div>```
+		    </div>
+		    ```
         
 I completed courses at SkillUp on front-end development. I completed one commercial order for the layout of the site( layout, content filling, adaptive). During the layout, I used Sublime Text, Photoshop, Html5, CSS, JS, jQuery.
 
