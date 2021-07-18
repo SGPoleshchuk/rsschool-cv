@@ -19,37 +19,37 @@ __Skills__
 * Sublime Text.
 
 **Sample code:**
-```<header class="header">
-			<div class="header_top">
-			    <div class="container">
-				    <div class="header_top_item">
-				    	<span>BENZOUCHASTOK.BY</span>
-				        <img src="../img/icon_mail.png" alt="Email"> ipcor@mail.ru
-				        <img src="../img/icon_phone.png" alt="Phone"> +375(25)746-19-22 // +375(25)924-51-81
-				    </div>
-			    </div>		  
-			</div>
-			<div class="header_bottom">
-				<div class="container">		
-			        <div class="logo">
-			            <a href="../index.html"><img src="../img/logo.png" alt="Go to home page"></a>
-			        </div>
-			        <nav class="nav">
-			        	<button class="nav_toggle">
-			        		<label for="nav_toggle"></label>
-			        		<span></span>
-			        	</button>
-			        	<input type="checkbox" id="nav_toggle">
-			            <ul class="menu">
-					        <li><a href="../index.html">Главная</a></li>
-					        <li><a href="price.html">Каталог</a></li>
-					        <li><a href="services.html">Наши услуги</a></li>
-					        <li><a href="contacts.html">Контакты</a></li>
-					    </ul>
-					</nav>
-			    </div>
-		    </div>
-		    ```
+```
+<div class="header_top">
+    <div class="container">
+    <div class="header_top_item">
+    	<span>BENZOUCHASTOK.BY</span>
+        <img src="../img/icon_mail.png" alt="Email"> ipcor@mail.ru
+        <img src="../img/icon_phone.png" alt="Phone"> +375(25)746-19-22 // +375(25)924-51-81
+    </div>
+    </div>		  
+</div>
+<div class="header_bottom">
+   <div class="container">		
+   <div class="logo">
+   <a href="../index.html"><img src="../img/logo.png" alt="Go to home page"></a>
+   </div>
+   <nav class="nav">
+   	<button class="nav_toggle">
+    		<label for="nav_toggle"></label>
+       		<span></span>
+       	</button>
+      	<input type="checkbox" id="nav_toggle">
+          <ul class="menu">
+		        <li><a href="../index.html">Главная</a></li>
+		        <li><a href="price.html">Каталог</a></li>
+		        <li><a href="services.html">Наши услуги</a></li>
+		        <li><a href="contacts.html">Контакты</a></li>
+	    </ul>
+</nav>
+</div>
+</div>
+```
         
 I completed courses at SkillUp on front-end development. I completed one commercial order for the layout of the site( layout, content filling, adaptive). During the layout, I used Sublime Text, Photoshop, Html5, CSS, JS, jQuery.
 
